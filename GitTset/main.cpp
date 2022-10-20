@@ -5,6 +5,6 @@ int main()
 
 	printf("Git2T–Ú ƒRƒ~ƒbƒg2‰ñ–Ú");
 
-	printf("Git3T–Ú");
+	printf("Git3T");
 	return 0;
 }
